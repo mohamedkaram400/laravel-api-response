@@ -1,0 +1,26 @@
+{
+    "name": "mohamedkaram500/laravel-api-response",
+    "description": "Simple reusable API response handler for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MohamedKaram500\\LaravelApiResponse\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MohamedKaram500\\LaravelApiResponse\\ApiResponseServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Karam",
+            "email": "mohamedkaramm500@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
