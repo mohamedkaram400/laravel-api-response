@@ -35,8 +35,8 @@ class UserController extends Controller
 }
 ```
 
+## Response Format
 ```bash
-Response Format
 {
   "message": "Success message",
   "status_code": 200,
@@ -52,21 +52,3 @@ Backend Developer | Laravel
 
 ## 📄 License
 This project is open-source and licensed under the MIT License.
-
----
-
-## 📝 GitHub **About Section** (Short & Clean)
-
-You can put this in the repository **About** field on GitHub:
-
-> Simple reusable API response trait for Laravel to return consistent JSON responses with optional pagination support.
-
----
-
-## ✅ Why this works well for your profile
-
-- ✔ Clear purpose
-- ✔ Shows Laravel best practices
-- ✔ Clean English (B1–B2 level, professional)
-- ✔ Recruiter-friendly
-- ✔ Looks like a real Composer package
