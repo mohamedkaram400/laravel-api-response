@@ -44,11 +44,14 @@ class UserController extends Controller
   "pagination": {}
 }
 ```
+---
 
-
-## 🧑‍💻 Author
+## 👤 Author
 ### Mohamed Karam
-Backend Developer | Laravel
+Backend Developer — Laravel & Modern PHP
 
-## 📄 License
-This project is open-source and licensed under the MIT License.
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
